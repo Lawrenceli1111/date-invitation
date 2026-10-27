@@ -6,4 +6,4 @@ function handleNoClick() {
  document.querySelector('.yes-button').style.fontSize = `${Math.min(1.15 + messageIndex * .1, 1.45)}rem`;
  document.querySelector('#decline').hidden = false;
 }
-function handleYesClick() { window.location.href = 'yes_page.html'; }
+function handleYesClick() { window.location.href = 'meal_page.html'; }
