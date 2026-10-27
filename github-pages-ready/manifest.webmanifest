@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "我们的约会 💗",
+  "short_name": "我们的约会",
+  "description": "选一顿喜欢的饭，约一段属于我们的时间。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f9e3e3",
+  "theme_color": "#f9e3e3",
+  "icons": [
+    {"src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "./icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
